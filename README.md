@@ -33,7 +33,7 @@ To change the colours/fonts, go to `View -> User-Defined Dialogue...`, and selec
 Something incorrect or missing, or got an improvement?
 
 * Raise an [issue](https://github.com/infectedsoundsystem/geckscript.npp/issues)
-* Or [fork the repository](https://github.com/infectedsoundsystem/geckscript.npp/fork), edit the file(s), and send a pull request
+* Or fork the repository, edit the file(s), and send a pull request
 
 
 ## Thanks

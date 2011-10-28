@@ -9,7 +9,7 @@ Enables Notepad++'s syntax highlighting and code completion for GECK Script, the
 * Highlighting and completion for all built-in commands and syntax
 * Includes all [Fallout Script Extender](http://fose.silverlock.org/) (FOSE) commands
 * Includes all known [New Vegas Script Extender](http://nvse.silverlock.org/) (NVSE) commands as of NVSE v2 beta 9
-* Associates .gek files with GECK Script when opened in Vim
+* Associates .gek files with GECK Script when opened in Notepad++
 
 
 ## Install
